@@ -12,7 +12,7 @@ You can reach me through:
 
 <!-- ![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png) -->
 
-# Hello! I'm Dion
+<img src="header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 ```python
 class User:
