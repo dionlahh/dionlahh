@@ -1,4 +1,4 @@
-<img src="header.png" alt="Introduction Banner">
+<!-- <img src="header.png" alt="Introduction Banner"> -->
 
 ```python
 class User:
